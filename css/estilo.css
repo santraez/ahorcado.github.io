@@ -1,0 +1,9 @@
+#ahorcado {
+    height: 212px;
+    width: 201px;
+    background-image: url('../img/hangman-game_pm-1024x212.png');
+}
+
+#victoria {
+    display: none;
+}
